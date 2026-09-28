@@ -4,6 +4,9 @@ Weekly cash view for a fictional company (**Northline Consumer Products**).
 
 **Deliverable:** [`Northline_13_Week_Cash_Forecast.xlsx`](Northline_13_Week_Cash_Forecast.xlsx)
 
+![thirteen-week-cash-forecast preview](dashboard-preview.png)
+
+
 ## Business question
 
 The monthly P&L can look fine while Friday cash is tight. Can payroll and vendors clear if a large receipt slips one week?
@@ -35,4 +38,4 @@ If a week goes through the comfort line after the receipt slip, the story is “
 
 Excel formulas only. No VBA, no live bank feed, no employer data. This is the weekly treasury conversation, not the annual plan.
 
-[Profile](https://github.com/saisiri-bandaru) · [Portfolio](https://saisiri-bandaru.github.io) · [LinkedIn](https://www.linkedin.com/in/bandarusaisiri) · [bandarusaisiri1207@gmail.com](mailto:bandarusaisiri1207@gmail.com)
+[Profile](https://github.com/saisiri1207) · [Portfolio](https://saisiri1207.github.io) · [LinkedIn](https://www.linkedin.com/in/saisiri1207) · [bandarusaisiri1207@gmail.com](mailto:bandarusaisiri1207@gmail.com)
